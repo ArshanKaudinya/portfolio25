@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+
+# Build outputs
+/public/css/styles.css
+
+# OS files
+.DS_Store
+git 
